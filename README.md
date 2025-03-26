@@ -13,3 +13,14 @@ Pasos para subir una web a GitHub Pages
 9. Pushear por primera vez, `git push -u origin master`
 10. Te pide las credenciales, usuario y token, conseguir token en `github.com/settings/tokens`.
 11. Ir a settings del repo, menu Pages, poner deploy from branch, la rama que tenes (master seguramente).
+
+
+## Contenido de index.html
+
+```html
+<html>
+  <body>
+    <h1>Hola</h1>
+  </body>
+</html>
+```
